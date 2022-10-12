@@ -1,6 +1,6 @@
 # Admin-Dashboard
 
-## [Live Demo](https://onionpowder01.github.io/SketchPad/)
+## [Live Demo](https://onionpowder01.github.io/Admin-Dashboard/)
 
 Css Grid & Flebox project in the curriculum of The Odin Project.
 
